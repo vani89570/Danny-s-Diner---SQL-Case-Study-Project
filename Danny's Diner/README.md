@@ -1,5 +1,5 @@
 ## Case Study 1: Danny's Diner 
-![image](https://github.com/user-attachments/assets/e2b8f9c0-c291-4b5b-aeef-5b52554c712b)
+![image](https://github.com/user-attachments/assets/983a7818-0e4b-46e3-8d61-6122f3598f91)
 
 ### Business Task:
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. 
