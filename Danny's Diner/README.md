@@ -1,9 +1,6 @@
 ## Case Study 1: Danny's Diner 
 ![image](https://github.com/user-attachments/assets/e2b8f9c0-c291-4b5b-aeef-5b52554c712b)
 
-
-View the [**case study**](https://8weeksqlchallenge.com/case-study-1/) and my [**solution**](https://github.com/YogeshOlla/8-Weeks-SQL-Challenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/SQL%20Code/Case%20Study%201%20-%20Danny's%20Diner.sql) 
-
 ### Business Task:
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. 
 
