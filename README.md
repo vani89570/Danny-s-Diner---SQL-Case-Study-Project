@@ -1,11 +1,12 @@
-**[#8WeekSQLChallenge](https://8weeksqlchallenge.com)** by Danny Ma
+
 
 ## Table of Contents
 - [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
 ***
 
 ## Case Study #1: Danny's Diner 
-<img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
+![istockphoto-1530224464-612x612](https://github.com/user-attachments/assets/95de1a9d-c5d5-401d-bd46-5002d30c5eb6)
+
 
 View the [**case study**](https://8weeksqlchallenge.com/case-study-1/) and my [**solution**](https://github.com/YogeshOlla/8-Weeks-SQL-Challenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/SQL%20Code/Case%20Study%201%20-%20Danny's%20Diner.sql) 
 
