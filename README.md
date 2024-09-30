@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
-## Case Study #1: Danny's Diner 
-![istockphoto-1530224464-612x612](https://github.com/user-attachments/assets/95de1a9d-c5d5-401d-bd46-5002d30c5eb6)
+## Case Study 1: Danny's Diner 
+![image](https://github.com/user-attachments/assets/f1e0fc33-91f1-48bf-ba21-081d5e09a077)
+
 
 
 ### Business Task:
